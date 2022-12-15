@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/free-films-uk/static/css/main.e7ed057f.css",
+    "main.js": "/free-films-uk/static/js/main.803774db.js",
+    "static/js/787.ef6cb600.chunk.js": "/free-films-uk/static/js/787.ef6cb600.chunk.js",
+    "index.html": "/free-films-uk/index.html",
+    "main.e7ed057f.css.map": "/free-films-uk/static/css/main.e7ed057f.css.map",
+    "main.803774db.js.map": "/free-films-uk/static/js/main.803774db.js.map",
+    "787.ef6cb600.chunk.js.map": "/free-films-uk/static/js/787.ef6cb600.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ed057f.css",
+    "static/js/main.803774db.js"
+  ]
+}
